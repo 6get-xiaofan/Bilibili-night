@@ -1,0 +1,21 @@
+
+{
+    "manifest_version": 2,
+    "name": "Bilibili深色模式",
+    "version": "1.0",
+    "description": "Bilibili深色模式:给你的B站加上深色模式",
+    "author": "XiaoFans",
+    "icons": {
+      "16": "img/icon.png",
+      "48": "img/icon.png",
+      "128": "img/icon.png"
+    },
+    "content_scripts": [
+        {
+        "matches": ["https://*.bilibili.com/*","http://*.bilibili.com/*"],
+        "run_at": "document_start",
+        "js": ["js/night.js"],
+        "css": ["css/night.css"]
+        }
+    ]
+}

@@ -1,0 +1,296 @@
+/** 公共css **/
+body {
+    background-color: #1a2a3a !important;
+    color: #dddddd !important;
+}
+a {
+    color: #dddddd !important;
+}
+/** 主站 **/
+.storey-title .no-link {
+    color: #dddddd !important;
+}
+.storey-title .text-info a {
+    color: #aaaaaa !important;
+}
+.bypb-window .online {
+    background: #2a3a4a !important;
+}
+.live-tabs .tab-switch .tab-switch-item {
+    color: #aaaaaa !important;
+}
+.storey-title .text-info {
+    color: #aaaaaa !important;
+}
+.page-tab .con li {
+    border: 1px solid #1a2a3a !important;
+}
+.bili-header-m .nav-search #nav_searchform, .international-header .nav-search #nav_searchform {
+    color: #aaaaaa !important;
+    background-color: #1a2a3a !important;
+}
+.bili-header-m .nav-search .nav-search-btn, .international-header .nav-search .nav-search-btn {
+    background: #1a2a3a !important;
+    border: 1px solid #3a4a5a !important;
+}
+.live-card .up .txt .desc {
+    color: #aaaaaa !important;
+}
+ul#bilibili-search-history {
+    background: #1a2a3a !important;
+    border: 1px solid #1a2a3a !important;
+}
+.bili-header-m .nav-search .nav-search-keyword, .international-header .nav-search .nav-search-keyword {
+    color: #aaaaaa !important;
+}
+.bilibili-search-history .history-item a {
+    color: #aaaaaa !important;
+}
+.elevator .list-box {
+    background: #3a4a5a !important;
+    border: 1px solid #aaaaaa !important;
+}
+.elevator .list-box .item {
+    background: #3a4a5a !important;
+    color: #aaaaaa !important;
+}
+.contact-help {
+    background: #2a3a4a !important;
+    border: 1px solid #1a2a3a !important;
+    box-shadow: 0 6px 10px 0 #4a5a6a !important;
+    color: #aaaaaa !important;
+}
+.bilibili-search-history .history-item a:hover {
+    color: #fff !important;
+    background: #2a3a4a !important;
+}
+.bilibili-search-history .history-item.focus, .bilibili-search-history .history-item:hover {
+    background: #2a3a4a !important;
+}
+.contact-help:hover {
+    background: #3a4a5a !important;
+    color: #fff !important;
+}
+.rcmd-box-wrap .change-btn {
+    color: #aaaaaa !important;
+}
+.rcmd-box-wrap .change-btn:hover {
+    background-color: #3a4a5a !important;
+}
+.exchange-btn .btn:hover {
+    background-color: #3a4a5a !important;
+}
+.exchange-btn .btn {
+    color: #aaaaaa !important;
+}
+.rank-header .more {
+    color: #aaaaaa !important;
+}
+.rank-header .more:hover {
+    background-color: #3a4a5a !important;
+}
+.rank-header .name {
+    color: #dddddd !important;
+}
+.international-footer {
+    background-color: #1a2a3a !important;
+    color: #eeeeee !important;
+}
+.time-line .tl-link {
+    background-color: #2a3a4a !important;
+}
+.special-recommend header {
+    color: #dddddd !important;
+}
+.ifmt h3 {
+    color: #dddddd !important;
+}
+.international-footer .link-box .link-item ul a {
+    color: #999999 !important;
+}
+.international-footer .link-box .link-item.link-c p {
+    color: auto !important;
+}
+.manga-panel .app-download-link {
+    color: #999999 !important;
+}
+.international-footer .link-box .link-item.link-c p {
+    color: #aaaaaa !important;
+}
+.elevator .list-box .item.on, .elevator .list-box .item:hover {
+    background-color: #00a1d6 !important;
+    color: #fff !important;
+}
+.manga-panel .manga-list-box .manga-card .manga-title {
+    color: #aaaaaa !important;
+}
+.van-popover {
+    background: #2a3a4a !important;
+}
+.van-popper-avatar * {
+    color: #aaaaaa !important;
+}
+.vip-m * {
+    color: #aaaaaa !important;
+}
+.im-list-box {
+    background: #3a4a5a !important;
+    color: #aaaaaa;
+}
+.out-container {
+    background-color: #3a4a5a !important;
+}
+.van-popper-favorite * {
+    color: #dddddd !important;
+    background-color: #3a4a5a !important;
+}
+.header-video-card * {
+    color: #dddddd !important;
+}
+.header-video-card:hover {
+    background-color: #4a5a6a !important;
+}
+.i-frame * {
+    background: #2a3a4a !important;
+    color: #dddddd !important;
+}
+.international {
+    color: #aaaaaa !important;
+    background-color: #1a2a3a !important;
+}
+span.tit {
+    color: #dddddd !important;
+}
+.bui-collapse .bui-collapse-header {
+    background: #2a3a4a !important;
+    color: #999999 !important;
+}
+.danmaku-wrap .player-auxiliary-area .player-auxiliary-danmaku-management {
+    background: #3a4a5a !important;
+    color: #999999 !important;
+}
+.bilibili-player-video-sendbar {
+    background: #2a3a4a !important;
+}
+.bilibili-player-video-info {
+    color: #999999 !important;
+}
+.video-desc * {
+    color: #999999 !important;
+}
+.s_tag .tag-area>li {
+    background: #4a5a6a !important;
+}
+.bilibili-player-video-sendbar .bilibili-player-video-inputbar {
+    background: #3a4a5a !important;
+    color: #999999 !important;
+}
+.player-auxiliary-area * {
+    background: #2a3a4a !important;
+    color: #999999 !important;
+}
+.bui-collapse * {
+    color: #999999 !important;
+}
+.activity-m * {
+    color: #dddddd !important;
+}
+.bb-comment, .comment-bilibili-fold {
+    background: #2a3a4a !important;
+}
+.comment-m * {
+    color: #dddddd !important;
+}
+.bb-comment .comment-send .textarea-container .ipt-txt, .comment-bilibili-fold .comment-send .textarea-container .ipt-txt, .bb-comment .comment-send-lite .textarea-container .ipt-txt, .comment-bilibili-fold .comment-send-lite .textarea-container .ipt-txt {
+    background: #2a3a4a !important;
+    color: #999999 !important;
+    border-bottom: 1px solid #4a5a6a !important;
+}
+.bb-comment .comment-list .list-item .con, .comment-bilibili-fold .comment-list .list-item .con {
+    border-top: 0 !important;
+}
+.emoji-box {
+    background: #3a4a5a !important;
+}
+.recommend-list * {
+    color: #dddddd !important;
+}
+.video-toolbar .ops>span {
+    color: #dddddd !important;
+}
+.video-toolbar .appeal-text {
+    color: #dddddd !important;
+}
+
+.bb-comment .comment-send.comment-send-lite, .comment-bilibili-fold .comment-send.comment-send-lite, .bb-comment .comment-send-lite.comment-send-lite, .comment-bilibili-fold .comment-send-lite.comment-send-lite {
+    background: #2a3a4a !important;
+}
+.bb-comment .comment-list .list-item .info .reply-tags span, .comment-bilibili-fold .comment-list .list-item .info .reply-tags span {
+    background: #3a4a5a !important;
+    color: #dddddd !important;
+}
+.resizable-component {
+    background: #2a3a4a !important;
+}
+.resizable-component .editor-innter {
+    background: #2a3a4a !important;
+    color: #dddddd !important;
+}
+.ql-toolbar {
+    background: #2a3a4a !important;
+}
+.ql-snow.ql-toolbar button * {
+    color: #dddddd !important;
+}
+.resizable-component .note-drag-bar {
+    background: #1a2a3a !important;
+}
+.resizable-component .close-btn {
+    background: #3a4a5a !important;
+    color: #dddddd !important;
+}
+.ql-snow .ql-picker {
+    color: #999999 !important;
+}
+.ql-snow .ql-picker-options {
+    background-color: #3a4a5a !important;
+}
+.ql-size .ql-picker-item {
+    color: #999999 !important;
+}
+.international-header .mini-type, .van-popover .mini-type {
+    background: #1a2a3a !important;
+    color: #dddddd !important;
+}
+.video-toolbar {
+    border-bottom: 1px solid #4a5a6a !important;
+}
+.activity-m .inside-wrp {
+    border-bottom: 1px solid #4a5a6a !important;
+    border: 1px solid #4a5a6a !important;
+}
+.v-wrap .s_tag {
+    border-bottom: 1px solid #4a5a6a !important;
+}
+.bb-comment .comment-header, .comment-bilibili-fold .comment-header {
+    border-bottom: 1px solid #4a5a6a !important;
+}
+.activity-m .inside-wrp {
+    border-bottom: 1px solid #4a5a6a !important;
+}
+.international-header .mini-type .nav-search #nav_searchform, .van-popover .mini-type .nav-search #nav_searchform {
+    border:1px solid #4a5a6a !important ;
+}
+.mini-type .nav-user-center .user-con .item .name {
+    color: #dddddd !important;
+    box-shadow: #1a2a3a !important;
+}
+.bilibili-player-video-sendbar .bilibili-player-video-inputbar .bilibili-player-video-inputbar-wrap {
+    border: 1px solid #4a5a6a !important;
+}
+.van-popper-favorite .tabs-panel {
+    border-right: 1px solid #3a4a5a !important;
+}
+.van-popper-favorite .play-all {
+    border-top: 1px solid #3a4a5a !important;
+}
