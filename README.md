@@ -6,9 +6,13 @@
 
 Bilibili-Night 是 Bilibili 网页端的深色模式 Chrome 扩展程序（插件），适用于 [Chromium](https://www.chromium.org/) 内核的所有浏览器（Google Chrome、QQ浏览器、360浏览器、搜狗浏览器......），欢迎 Star & Fork 参与贡献！欢迎加入QQ群：939273209 和沙雕 XiaoFans 的可爱群友们一起讨论玩耍吧~（此群可广告可宣传没有诸多限制）
 
+## 🎨说明
+
+当前未发行稳定版之前，不建议将本项目用于日常使用，目前仅仅完成了基础的主站和播放页的深色模式适配工作，其他页面可能会导致字体配色、背景颜色等的异常，使用时如遇影响观看和阅读，请停用插件，等待插件更新，如果你在开发和使用过程中遇到无法解决的问题，请到 issues 中新建一个 issues 。开发者请详细阅读文档，以提高代码审核效率。
+
 ## 📜计划
 
-目前本插件的深色模式适配任务量重大，单靠我一人完成将是一件非常困难的事，我还有1年就要高考了，能够编写的时间只有周六周天，所以如果你也感兴趣，欢迎 Star & Fork 来参与代码贡献！
+目前本插件的深色模式适配任务量重大，单靠我一人完成将是一件非常困难的事，我还有1年就要高考了，能够编写的时间只有周五晚上，周六和周天，所以如果你也感兴趣，欢迎 Star & Fork 来参与代码贡献！
 
 ###### 里程碑：
 
@@ -54,61 +58,23 @@ Bilibili-Night 是 Bilibili 网页端的深色模式 Chrome 扩展程序（插�
 - [ ] 个人中心
 - [ ] ......
 
-###### 进度
-
-<div class="skillbar html" style="width: 100%;
-    padding: 10px;
-    margin: 10px 0;
-    position: relative;
-    display: block;
-    overflow: hidden;
-    height: 30px;
-    background-color: #fff;
-    border-radius: 5px 0 0 5px;">
-	  <div class="filled" data-width="90%" style="width: 90%;background-color: #ff8817;z-index: 8;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: rgba(0,80,80,.3);
-    height: 100%;
-    width: 20px;
-    border-radius: 5px 0 0 5px;"></div>
-	  <span class="title" style="background-color: #c96300;padding: 5px;
-    position: absolute;
-    top: 0;
-    z-index: 9;background-color: rgba(0,0,0,.6);
-    height: 30px;
-    width: 85px;
-    text-align: center;
-    left: 0;
-    color: #f0f0f0;
-    border-radius: 5px 0 0 5px;">总进度</span>
-	  <span class="percent" style="right: 0;
-    color: #000;
-    font-weight: 700;padding: 5px;
-    position: absolute;
-    top: 0;
-    z-index: 9;">2%</span>
-	</div>
-
-
 ## 🎈参与贡献
 
-clone仓库到本地
+1. clone仓库到本地；
 
 ```git
 git clone git@github.com:6get-xiaofan/Bilibili-night.git
 ```
 
-浏览器地址栏输入并打开插件管理页
+2. 浏览器地址栏输入并打开插件管理页；
 
 ```
 chrome://extensions/
 ```
 
-启用右上角<code>开发者模式</code>，点击左侧<code>加载已解压的扩展程序</code>，选择clone到本地的仓库
+3. 启用右上角<code>开发者模式</code>，点击左侧<code>加载已解压的扩展程序</code>，选择clone到本地的仓库；
 
-用VSCode、sublime等编辑器开始参与代码编写，完成后创建拉取请求，开始代码审核
+4. 用VSCode、sublime等编辑器开始参与代码编写，完成后创建拉取请求，开始代码审核。
 
 ## 🔎许可
 
