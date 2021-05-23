@@ -1,1 +1,1 @@
-console.log("Plugin is load success!");
+console.log("Bilibili-Night plugin is load success!");
