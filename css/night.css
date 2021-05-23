@@ -6,7 +6,7 @@ body {
 a {
     color: #dddddd !important;
 }
-/** 主站 **/
+/** main **/
 .storey-title .no-link {
     color: #dddddd !important;
 }
@@ -26,7 +26,7 @@ a {
     border: 1px solid #1a2a3a !important;
 }
 .bili-header-m .nav-search #nav_searchform, .international-header .nav-search #nav_searchform {
-    color: #aaaaaa !important;
+    color: #dddddd !important;
     background-color: #1a2a3a !important;
 }
 .bili-header-m .nav-search .nav-search-btn, .international-header .nav-search .nav-search-btn {
@@ -41,14 +41,17 @@ ul#bilibili-search-history {
     border: 1px solid #1a2a3a !important;
 }
 .bili-header-m .nav-search .nav-search-keyword, .international-header .nav-search .nav-search-keyword {
-    color: #aaaaaa !important;
+    color: #dddddd !important;
+}
+.bili-header-m .nav-search .nav-search-submit, .international-header .nav-search .nav-search-submit {
+    color: #dddddd !important;
 }
 .bilibili-search-history .history-item a {
     color: #aaaaaa !important;
 }
 .elevator .list-box {
     background: #3a4a5a !important;
-    border: 1px solid #aaaaaa !important;
+    border: 1px solid #4a5a6a !important;
 }
 .elevator .list-box .item {
     background: #3a4a5a !important;
@@ -126,9 +129,10 @@ ul#bilibili-search-history {
 }
 .van-popover {
     background: #2a3a4a !important;
+    border: 1px solid #4a5a6a !important;
 }
 .van-popper-avatar * {
-    color: #aaaaaa !important;
+    color: #dddddd !important;
 }
 .vip-m * {
     color: #aaaaaa !important;
@@ -180,6 +184,10 @@ span.tit {
 }
 .s_tag .tag-area>li {
     background: #4a5a6a !important;
+    border: 1px solid #5a6a7a !important;
+}
+.s_tag .tag-area>li:hover {
+    border-color: #00a1d6 !important;
 }
 .bilibili-player-video-sendbar .bilibili-player-video-inputbar {
     background: #3a4a5a !important;
@@ -196,21 +204,23 @@ span.tit {
     color: #dddddd !important;
 }
 .bb-comment, .comment-bilibili-fold {
-    background: #2a3a4a !important;
+    background: #1a2a3a !important;
 }
 .comment-m * {
     color: #dddddd !important;
 }
 .bb-comment .comment-send .textarea-container .ipt-txt, .comment-bilibili-fold .comment-send .textarea-container .ipt-txt, .bb-comment .comment-send-lite .textarea-container .ipt-txt, .comment-bilibili-fold .comment-send-lite .textarea-container .ipt-txt {
     background: #2a3a4a !important;
-    color: #999999 !important;
+    color: #dddddd !important;
     border-bottom: 1px solid #4a5a6a !important;
+    border: 1px solid #4a5a6a !important;
 }
 .bb-comment .comment-list .list-item .con, .comment-bilibili-fold .comment-list .list-item .con {
     border-top: 0 !important;
 }
 .emoji-box {
     background: #3a4a5a !important;
+    border: 1px solid #4a5a6a !important;
 }
 .recommend-list * {
     color: #dddddd !important;
@@ -223,7 +233,7 @@ span.tit {
 }
 
 .bb-comment .comment-send.comment-send-lite, .comment-bilibili-fold .comment-send.comment-send-lite, .bb-comment .comment-send-lite.comment-send-lite, .comment-bilibili-fold .comment-send-lite.comment-send-lite {
-    background: #2a3a4a !important;
+    background: #1a2a3a !important;
 }
 .bb-comment .comment-list .list-item .info .reply-tags span, .comment-bilibili-fold .comment-list .list-item .info .reply-tags span {
     background: #3a4a5a !important;
@@ -259,8 +269,10 @@ span.tit {
     color: #999999 !important;
 }
 .international-header .mini-type, .van-popover .mini-type {
-    background: #1a2a3a !important;
+    background: #0a1a2a !important;
     color: #dddddd !important;
+    box-shadow: 0 2px 4px 0 #eeeeee00 !important;
+    background-color: #0a1a2a !important;
 }
 .video-toolbar {
     border-bottom: 1px solid #4a5a6a !important;
@@ -289,8 +301,212 @@ span.tit {
     border: 1px solid #4a5a6a !important;
 }
 .van-popper-favorite .tabs-panel {
-    border-right: 1px solid #3a4a5a !important;
+    border-right: 1px solid #5a6a7a !important;
 }
 .van-popper-favorite .play-all {
-    border-top: 1px solid #3a4a5a !important;
+    border-top: 1px solid #5a6a7a !important;
+}
+.van-popper-upload .upload-item[data-v-0fdc0c18]:hover {
+    background-color: #4a5a6a !important;
+}
+.vip-m .bubble-traditional .renew-btn button {
+    color: #dddddd !important;
+}
+.popover-app-download .txt {
+    color: #dddddd !important;
+}
+.bilibili-player {
+    -webkit-box-shadow: 0 0 8px #e5e9ef00 !important;
+    box-shadow: 0 0 8px #e5e9ef00 !important;
+}
+.emoji-box .emoji-tabs {
+    background: #2a3a4a !important;
+}
+.recommend-list .rec-footer {
+    background: #2a3a4a !important;
+}
+.pop-live .pl__card {
+    border: 1px solid #4a5a6a !important;
+}
+#bilibili-player.mini-player .player {
+    box-shadow: 0 2px 8px 0 #4a5a6a !important;
+}
+.user-card {
+    background: #2a3a4a !important;
+    border: 1px solid #4a5a6a !important;
+}
+.tag-info-pane {
+    background: #3a4a5a !important;
+}
+.video-toolbar .ops .share .share-pos {
+    color: #dddddd !important;
+    background: #3a4a5a !important;
+    border: 1px solid #4a5a6a !important;
+    box-shadow:  0 2px 4px 0 #4a5a6a !important;
+}
+.video-desc .tip-info .argue i, .video-desc .tip-info .copyright i {
+    color: #fd676f !important;
+}
+.more-ops-list {
+    color: #dddddd !important;
+    background: #3a4a5a !important;
+    border: 1px solid #4a5a6a !important;
+    box-shadow:  0 2px 4px 0 #4a5a6a !important;
+}
+.video-toolbar .more {
+    color: #dddddd !important;
+}
+.bb-comment .comment-send .comment-emoji, .comment-bilibili-fold .comment-send .comment-emoji, .bb-comment .comment-send-lite .comment-emoji, .comment-bilibili-fold .comment-send-lite .comment-emoji {
+    border: 1px solid #4a5a6a !important;
+}
+.tag-channel-pane {
+    background: #2a3a4a !important;
+    color: #dddddd !important;
+}
+.user-card .btn-box .message {
+    background: #5a6a7a !important;
+}
+.user-card .btn-box a {
+    color: #dddddd !important;
+}
+.bb-comment .comment-list .list-item .reply-box .view-more .btn-more:hover, .comment-bilibili-fold .comment-list .list-item .reply-box .view-more .btn-more:hover {
+    background: #4a5a6a !important;
+    color: #dddddd !important;
+}
+.video-page-card .card-box .pic-box {
+    background: #5a6a7a !important;
+}
+.bb-comment .comment-list .list-item .info .btn-hover:hover, .comment-bilibili-fold .comment-list .list-item .info .btn-hover:hover {
+    background: #4a5a6a !important;
+    color: #dddddd !important;
+}
+.bb-comment .operation .opera-list, .comment-bilibili-fold .operation .opera-list {
+    background: #4a5a6a !important;
+    box-shadow: 0 0 5px #4a5a6a !important;
+}
+.bb-comment .comment-list .list-item .info .btn-hover:hover, .comment-bilibili-fold .comment-list .list-item .info .btn-hover:hover {
+    background: #4a5a6a !important;
+    color: #dddddd !important;
+}
+.user-card-m {
+    background: #3a4a5a !important;
+    border: 1px solid #4a5a6a !important;
+    box-shadow:  0 2px 4px 0 #4a5a6a !important;
+}
+.van-popper-history .tab-header {
+    border-bottom: 1px solid #4a5a6a !important;
+}
+.van-popover {
+    color: #dddddd !important;
+}
+.van-popper-history .date-title {
+    color: #dddddd !important;
+}
+.tag-channel-pane .channel-title {
+    color: #dddddd !important;
+}
+.v-wrap .danmaku-wrap {
+    background: #4a5a6a !important;
+}
+.video-page-operator-card .pic-box {
+    background: #4a5a6a !important;
+}
+#webShare .bili-share-pc {
+    background: #2a3a4a !important;
+}
+.bili-share-pc {
+    border: 1px solid #4a5a6a !important;
+}
+.comment-container {
+    background: #1a2a3a !important;
+}
+.bb-comment .comment-header .tabs-order li, .comment-bilibili-fold .comment-header .tabs-order li {
+    color: #aaaaaa !important;
+}
+.emoji-box .emoji-tabs .tab-link.on {
+    background: #3a4a5a !important;
+}
+.emoji-box .emoji-tabs .tab-link:hover {
+    background: #4a5a6a !important;
+}
+p.text {
+    color: #dddddd !important;
+}
+span.text-con {
+    color: #dddddd !important;
+}
+.bb-comment .operation .opera-list, .comment-bilibili-fold .operation .opera-list {
+    color: #dddddd !important;
+    background: #3a4a5a !important;
+}
+.bb-comment .operation .opera-list li:hover, .comment-bilibili-fold .operation .opera-list li:hover {
+    background: #4a5a6a !important;
+    color: #00a1d6 !important;
+}
+span.default-text {
+    color: #fff !important;
+}
+.bili-share-pc .title {
+    color: #dddddd !important;
+}
+.bilibili-player-video-bottom-area:before {
+    background: #3a4a5a !important;
+}
+.up-info .btn-panel .default-btn {
+    background: #3a4a5a !important;
+}
+.up-info .u-face .fa {
+    background: #3a4a5a !important;
+}
+.page-container {
+    background: #1a2a3a !important;
+}
+.title-container .title {
+    color: #dddddd !important;
+}
+.article-holder {
+    color: #dddddd !important;
+
+}
+.up-info-holder .fixed-box .up-article-list-block * {
+    color: #dddddd !important;
+
+}
+.up-info-holder .fixed-box .up-info-block .up-info-right-block .fans-num, .up-info-holder .fixed-box .up-info-block .up-info-right-block .view-num {
+    color: #aaaaaa !important;
+}
+.up-info-holder .fixed-box .up-article-list-block .article-list .article-item * {
+    color: #dddddd !important;
+}
+.nav-tab-bar .tab-item {
+    color: #dddddd !important;
+}
+.article-action {
+    color: #dddddd !important;
+}
+.up-info-holder .fixed-box .more .help .title, .up-info-holder .fixed-box .more .link .title {
+    color: #dddddd !important;
+}
+.up-info-holder .fixed-box .up-article-list-block .more-article {
+    background: #3a4a5a !important;
+    color: #dddddd !important;
+}
+.right-side-bar {
+    z-index: 999999;
+}
+.title-container .info {
+    color: #9b9b9b !important;
+}
+.up-info-holder .fixed-box .up-article-list-block .block-title {
+    border-bottom: 1px solid #4a5a6a !important;
+}
+.up-info-holder .fixed-box .more .top-bar {
+    border-bottom: 1px solid #4a5a6a !important;
+}
+img.loaded {
+    border: 1px solid #4a5a6a !important;
+    border-radius: 4px;
+}
+.emoji-box .emoji-title {
+    color: #dddddd !important;
 }
