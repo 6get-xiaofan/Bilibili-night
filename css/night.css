@@ -740,3 +740,6 @@ input#link2 {
 .float-nav .nav-menu .item:hover {
     color: #fff !important;
 }
+.van-popper-avatar .links .link-item:hover {
+    background: #4a5a6a !important;
+}
